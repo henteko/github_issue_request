@@ -1,5 +1,6 @@
 # Github issue request
 [![Build Status](https://travis-ci.org/henteko/github_issue_request.svg?branch=master)](https://travis-ci.org/henteko/github_issue_request)
+[![Gem Version](https://badge.fury.io/rb/GithubIssueRequest.svg)](https://badge.fury.io/rb/GithubIssueRequest)
 
 This gem is request to github issue for user.
 
