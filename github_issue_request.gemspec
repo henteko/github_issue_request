@@ -12,6 +12,8 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{User create request github issue}
   spec.homepage      = "https://github.com/henteko/github_issue_request"
   spec.license       = "MIT"
+
+  spec.add_dependency "activesupport", "~> 4.2.4"
   
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"

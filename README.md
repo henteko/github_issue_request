@@ -27,9 +27,9 @@ options = {
   :body   => 'issue body text',
   :labels => ['bug', 'WIP']
 }
-request = GithubIssueRequest.new('your_github_repo', options)
+request_url = GithubIssueRequest::Url.new('repo_owner_name', 'repo_name', options)
 
-request.url # get issue request url
+request.to_s # get issue request url
 ```
 
 # License
