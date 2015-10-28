@@ -7,13 +7,13 @@ This gem is request to github issue for user.
 # Install
 
 ```
-$ gem install github_issue_request
+$ gem install GithubIssueRequest
 ```
 
 or
 
 ```
-gem 'github_issue_request'
+gem 'GithubIssueRequest'
 ```
 
 ```
