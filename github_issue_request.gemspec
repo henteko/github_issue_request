@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'github_issue_request/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "GithubIssueRequest"
+  spec.name          = "github_issue_request"
   spec.version       = GithubIssueRequest::VERSION
   spec.authors       = ["henteko"]
   spec.email         = ["henteko07@gmail.com"]

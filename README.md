@@ -1,19 +1,19 @@
 # Github issue request
 [![Build Status](https://travis-ci.org/henteko/github_issue_request.svg?branch=master)](https://travis-ci.org/henteko/github_issue_request)
-[![Gem Version](https://badge.fury.io/rb/GithubIssueRequest.svg)](https://badge.fury.io/rb/GithubIssueRequest)
+[![Gem Version](https://badge.fury.io/rb/github_issue_request.svg)](https://badge.fury.io/rb/github_issue_request)
 
 This gem is request to github issue for user.
 
 # Install
 
 ```
-$ gem install GithubIssueRequest
+$ gem install github_issue_request
 ```
 
 or
 
 ```
-gem 'GithubIssueRequest'
+gem 'github_issue_request'
 ```
 
 ```
