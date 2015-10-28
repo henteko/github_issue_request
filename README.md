@@ -25,12 +25,14 @@ $ bundle install
 ```
 require 'github_issue_request'
 
+GithubIssueRequest::Url.config('owner_name', 'repo_name')
+
 options = {
   :title  => 'issue title',
   :body   => 'issue body text',
   :labels => ['bug', 'WIP']
 }
-request_url = GithubIssueRequest::Url.new('repo_owner_name', 'repo_name', options)
+request_url = GithubIssueRequest::Url.new(options)
 
 request.to_s # get issue request url
 ```
