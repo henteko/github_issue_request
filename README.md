@@ -1,4 +1,6 @@
 # Github issue request
+[![Build Status](https://travis-ci.org/henteko/github_issue_request.svg?branch=master)](https://travis-ci.org/henteko/github_issue_request)
+
 This gem is request to github issue for user.
 
 # Install
