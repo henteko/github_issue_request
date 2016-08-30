@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/henteko/github_issue_request"
   spec.license       = "MIT"
 
-  spec.add_dependency "activesupport", "~> 4.2.4"
+  spec.add_dependency "activesupport", "~> 4.2.7.1"
   
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
